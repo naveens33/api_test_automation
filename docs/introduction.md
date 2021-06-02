@@ -17,3 +17,23 @@ To break that down, a web service comprises these essential functions:
 
 # Web Service example
 ## Red Bus
+
+# Web Services vs API
+
+"All APIs are not Web services but all webservices are APIs"
+
+# Type of Webservice 
+
+* SOAP(Evelope card) - Simple Object Access Protocol --> xml message protocol
+
+ Client --> Data + SOAP Standard --> xml <--> Server
+
+* XML-RPC
+
+* JSON-RPC
+
+* REST(Post Card) -> Representational State Transfer
+xml json 
+
+Clinet --> Data  <-------> Server 
+
